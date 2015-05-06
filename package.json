@@ -1,0 +1,21 @@
+{
+  "name": "generator-poly-jadestyl",
+  "version": "0.1.1",
+  "description": "Yeoman generator of templates for creating a web component using Polymer, Jade Template Engine and Stylus",
+  "files": [
+    "app",
+    "router"
+  ],
+  "author": "Andrey Rakhmanov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/volkhv/generator-poly-jadestyl.git"
+  },
+  "keywords": ["yeoman-generator", "polymer", "jade", "stylus"],
+  "homepage": "https://github.com/volkhv/polyrator",
+  "dependencies": {
+    "node-dir": "^0.1.8",
+    "rimraf": "^2.3.3",
+    "yeoman-generator": "^0.17.3"
+  }
+}
