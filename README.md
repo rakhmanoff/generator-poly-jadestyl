@@ -3,7 +3,15 @@ Generator of templates for creating a web component using Polymer, Jade Template
 
 # Installation
 
-`npm install -g generator-poly-jadestyl`
+Install the yeoman:
+```
+npm install -g yo
+```
+
+Install `generator-poly-jadestyl`:
+```
+npm install -g generator-poly-jadestyl
+```
 
 # API
 
