@@ -6,6 +6,6 @@
 Polymer({
   is: '{{name}}',
 
-  ready: function() {
+  ready: function () {
   }
 }); 
